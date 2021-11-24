@@ -13,7 +13,7 @@ The use of ML algorithms in this process helps the Insurtech companies to unders
  We want to predict from this dataset if someone will get serious illness like heart attack or strock in the future from the smoking habit 
 
 **ML model selected**:  
-Logistic regression or Random forest
+ Random forest
 
 **Reason**: 
 Because Random Forest helps us to determine which variable have the most effect or causing on my target.
